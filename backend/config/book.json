@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "img": "images/things-fall-apart.jpg",
+    "year": 1958,
+    "genre": "Romance",
+    "rating": 4
+  },
+  {
+    "title": "Fairy tales",
+    "author": "Hans Christian Andersen",
+    "img": "images/fairy-tales.jpg",
+    "year": 1836,
+    "genre": "Action",
+    "rating": 3
+  },
+  {
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "img": "images/the-divine-comedy.jpg",
+    "year": 1315,
+    "genre": "Sci-fi",
+    "rating": 2
+  },
+  {
+    "title": "The Epic Of Gilgamesh",
+    "author": "Unknown",
+    "img": "images/the-epic-of-gilgamesh.jpg",
+    "year": 1980,
+    "genre": "Drama",
+    "rating": 3
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "img": "images/pride-and-prejudice.jpg",
+    "year": 1813,
+    "genre": "Romance",
+    "rating":5
+  }
+]
